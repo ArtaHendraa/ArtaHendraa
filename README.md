@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artahendraa&label=Profile%20views&color=0e75b6&style=flat" alt="artahendraa" /> </p>
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **JAVA**
 
 - 📫 How to reach me **artahenda@gmail.com**
 
