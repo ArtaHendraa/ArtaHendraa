@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **artahenda@gmail.com**
 
-- ⚡ Fun fact **i am 16 years old,よろしく!!**
+- ⚡ Fun fact **i am 17 years old,よろしく!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
