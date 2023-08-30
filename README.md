@@ -1,1 +1,2 @@
-![readmebox (2)](https://github.com/ArtaHendraa/ArtaHendraa/assets/114238949/95bf75f3-6e96-474d-a8f9-173bf0bad0db)
+
+![readmebox](https://github.com/ArtaHendraa/ArtaHendraa/assets/114238949/fbac4d6c-82b2-449f-9322-2c6844aee3cc)
