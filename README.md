@@ -8,7 +8,5 @@
   <img align="center"  height="150" width="175" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="300" align="center">
 </div>
 
-### :space_invader: &nbsp;About Me
-
 
 
