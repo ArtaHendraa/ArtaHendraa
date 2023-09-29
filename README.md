@@ -2,12 +2,8 @@
 <div>
   <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=artahendraa&show_icons=true&locale=en&layout=compact" alt="artahendraa" />
   <img align="center" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=artahendraa&" alt="artahendraa" />
-  <img align="center"  height="150" width="175" src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif" width="300" align="center">
+  <img align="center"  height="150" width="175" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="300" align="center">
 </div>
-
-
-
-
 
 
 
