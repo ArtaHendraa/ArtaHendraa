@@ -1,5 +1,5 @@
 ![readmebox](https://github.com/ArtaHendraa/ArtaHendraa/assets/114238949/fbac4d6c-82b2-449f-9322-2c6844aee3cc)
-<table align="center">
+<table align="center" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center">
       <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=artahendraa&show_icons=true&locale=en&layout=compact&hide=css,html" alt="artahendraa" />
@@ -12,6 +12,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
