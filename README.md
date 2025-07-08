@@ -7,7 +7,7 @@
 Mostly code React stuff, and learning to draw.
 ```
 Languages:    [ JavaScript, PHP, TypeScript ]
-Frameworks:   [ Node.js, React, Next.js, Astro ]
+Frameworks:   [ Node.js, React, Next.js, Astro, TailwindCSS ]
 Databases:    [ MySQL, PostgreSQL ]
 ```
 
