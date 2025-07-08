@@ -1,6 +1,8 @@
 <!-- ![backend](https://github.com/user-attachments/assets/735e8e78-0e62-47c6-9c54-7702537ace71) BACKEND -->
 <!-- ![readmebox](https://github.com/ArtaHendraa/ArtaHendraa/assets/114238949/fbac4d6c-82b2-449f-9322-2c6844aee3cc) WEBDEV-->
 
+
+![frontend](https://github.com/user-attachments/assets/b4664191-d04e-4a4c-921e-ab10d68574ba)
 ### Hi, I'm Arta 👋 
 Mostly code React stuff, and learning to draw.
 ```
@@ -8,7 +10,6 @@ Languages:    [ JavaScript, PHP, TypeScript ]
 Frameworks:   [ Node.js, React, Next.js, Astro ]
 Databases:    [ MySQL, PostgreSQL ]
 ```
-![frontend](https://github.com/user-attachments/assets/b4664191-d04e-4a4c-921e-ab10d68574ba)
 
 <!-- <div style="display: flex; justify-content: center;"> -->
 <!--   <img align="center" height="150" src="https://github.com/user-attachments/assets/f2208f59-0889-4157-aa7d-87b24c71fce0" alt="artahendraa" /> -->
