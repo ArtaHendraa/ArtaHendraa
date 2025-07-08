@@ -3,6 +3,11 @@
 ![frontend](https://github.com/user-attachments/assets/b4664191-d04e-4a4c-921e-ab10d68574ba)
 ### Hi, I'm Arta 👋 
 Mostly code React stuff, and learning to draw.
+```
+Languages:    [ JavaScript, PHP, TypeScript ]
+Frameworks:   [ Node.js, React, Next.js, Astro ]
+Databases:    [ MySQL, PostgreSQL ]
+```
 <!-- <div style="display: flex; justify-content: center;"> -->
 <!--   <img align="center" height="150" src="https://github.com/user-attachments/assets/f2208f59-0889-4157-aa7d-87b24c71fce0" alt="artahendraa" /> -->
 <!--   <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=artahendraa&show_icons=true&locale=en&layout=compact&hide=html,css" alt="artahendraa" /> -->
