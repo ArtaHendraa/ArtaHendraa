@@ -4,7 +4,8 @@
 
 ![frontend](https://github.com/user-attachments/assets/b4664191-d04e-4a4c-921e-ab10d68574ba)
 ### Hi, I'm Arta 👋 
-Mostly code React stuff, and learning to draw.
+Mostly code React stuff, and learning to draw.<br>
+Reach me at: arta.hendrawan@icloud.com
 ```
 Languages:    [ JavaScript, PHP, TypeScript ]
 Frameworks:   [ Node.js, Next.js, Astro, TailwindCSS ]
