@@ -9,7 +9,7 @@ Reach me at: artahendrawannn@gmail.com
 ```
 Languages:    [ JavaScript, PHP, TypeScript ]
 Frameworks:   [ Node.js, Next.js, Astro, TailwindCSS ]
-Databases:    [ MySQL, PostgreSQL ]
+Databases:    [ SQLite, MySQL, PostgreSQL ]
 ```
 
 <!-- <div style="display: flex; justify-content: center;"> -->
