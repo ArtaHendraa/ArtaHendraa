@@ -8,7 +8,7 @@ Mostly code React stuff, and learning to draw.<br>
 Reach me at: artahendrawannn@gmail.com
 ```
 Languages:    [ JavaScript, PHP, TypeScript ]
-Frameworks:   [ Node.js, Next.js, Astro, TailwindCSS ]
+Frameworks:   [ Node.js, Next.js, Astro, TailwindCSS, Laravel ]
 Databases:    [ SQLite, MySQL, PostgreSQL ]
 ```
 
